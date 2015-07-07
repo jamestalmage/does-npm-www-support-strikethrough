@@ -1,0 +1,19 @@
+{
+  "name": "does-npm-www-support-strikethrough",
+  "version": "1.0.0",
+  "description": "Well? Does it?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestalmage/does-npm-www-support-strikethrough.git"
+  },
+  "author": "James Talmage <james@talmage.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestalmage/does-npm-www-support-strikethrough/issues"
+  },
+  "homepage": "https://github.com/jamestalmage/does-npm-www-support-strikethrough#readme"
+}
